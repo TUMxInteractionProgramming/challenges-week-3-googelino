@@ -143,3 +143,8 @@ li img {
     margin-left: 17.5%;
 }
 
+#star {
+    position: relative;
+    right: 16px;
+}
+
